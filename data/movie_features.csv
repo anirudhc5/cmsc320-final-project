@@ -1,6 +1,6 @@
 ,title,imdb_id,release_date,genre,rt_score,movie_id,total_posts,total_comments,avg_post_score,median_post_score,max_post_score,subreddit_count
-0,Oppenheimer,tt15398776,2023-07-21,"Biography, Drama, History",93,,0.0,,,,,
-1,Barbie,tt1517268,2023-07-21,"Adventure, Comedy, Fantasy",88,tt1517268,200.0,9000.0,155.05,2.0,15137.0,2.0
-2,Dune: Part Two,tt15239678,2024-03-01,"Action, Adventure, Drama",92,,0.0,,,,,
-3,Madame Web,tt11057302,2024-02-14,"Action, Thriller",10,tt11057302,47.0,1805.0,75.7872340425532,3.0,677.0,2.0
-4,Inside Out 2,tt22022452,2024-06-14,"Animation, Adventure, Comedy",91,tt22022452,51.0,1620.0,94.96078431372548,23.0,2444.0,2.0
+0,Oppenheimer,tt15398776,2023-07-21,"Biography, Drama, History",93,tt15398776,100.0,5728.0,115.46,20.5,1605.0,1.0
+1,Barbie,tt1517268,2023-07-21,"Adventure, Comedy, Fantasy",88,,0.0,,,,,
+2,Dune: Part Two,tt15239678,2024-03-01,"Action, Adventure, Drama",92,tt15239678,19.0,1492.0,191.73684210526315,16.0,1058.0,1.0
+3,Madame Web,tt11057302,2024-02-14,"Action, Thriller",10,tt11057302,11.0,118.0,1.1818181818181819,1.0,3.0,1.0
+4,Inside Out 2,tt22022452,2024-06-14,"Animation, Adventure, Comedy",91,,0.0,,,,,
